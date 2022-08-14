@@ -11,7 +11,7 @@ const player = document.getElementById("player");
 const pipBtn = document.getElementById("pip");
 
 //video storage
-const videos = ["Robb", "catcity"];
+const videos = ["Sade", "catcity", "Luffy"];
 
 let videoIndex = 0;
 
