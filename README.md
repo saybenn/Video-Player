@@ -1,0 +1,1 @@
+This Video Player is preloaded with 3 videos. Sade, a silly cat video, and an anime video, my favorite, One Piece. It can pause, play, stop, skip, go back or forward in the queue, and it has a nice fade animation to give a movie theater vibe.
